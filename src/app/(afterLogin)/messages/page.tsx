@@ -1,7 +1,8 @@
+
 export default function Home() {
   return (
     <main>
-      게시글
+      쪽지페이지
     </main>
   )
 }

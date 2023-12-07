@@ -1,5 +1,7 @@
-import Main from "./_components/Main";
+import Main from "@/app/(beforeLogin)/_component/Main";
 
-export default function Index() {
-  return <Main />;
+export default function Home() {
+  return (
+    <Main />
+  )
 }
